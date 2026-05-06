@@ -26,7 +26,7 @@ Who need to understand where to invest and how to manage inventory efficiently.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The main goal of this project is to:
 - Provide data-driven insights for better decision-making
 - Optimize sales performance
@@ -34,15 +34,15 @@ The main goal of this project is to:
 
 ---
 
-## 🧠 Key Business Decisions Supported
+##  Key Business Decisions Supported
 - Identify products that need restocking
 - Detect high-demand and low-demand products
 - Decide which products to invest in, promote, or remove
 
 ---
 
-## ⚙️ Tools & Technologies
-- Python 🐍
+##  Tools & Technologies
+- Python 
 - Pandas 📊
 - Matplotlib 📈
 - SQL (MySQL / SQLite)
