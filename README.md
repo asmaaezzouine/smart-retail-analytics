@@ -80,5 +80,3 @@ The project follows a structured data pipeline:
 
 ---
 
-## 📁 Project Structure (Suggested)# smart-retail-analytics
-Data analysis project to optimize sales and inventory using Python, SQL, and data visualization.
