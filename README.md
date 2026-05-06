@@ -43,8 +43,8 @@ The main goal of this project is to:
 
 ##  Tools & Technologies
 - Python 
-- Pandas 📊
-- Matplotlib 📈
+- Pandas 
+- Matplotlib 
 - SQL (MySQL / SQLite)
 - REST APIs (e.g. Fake Store API)
 
